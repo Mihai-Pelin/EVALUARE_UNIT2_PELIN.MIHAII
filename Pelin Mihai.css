@@ -1,0 +1,141 @@
+body
+{
+    
+    text-align: center;
+    align-items: center;
+    background-color: #E9F1FA;
+}
+h1
+{
+    background-color: #00ABE4;
+    color: white;
+    text-align: left;
+    font-style: normal;
+    font-size: 50px;
+    padding: 8px 12px;
+    font-family:  Verdana, sans-serif;
+}
+	
+.a
+{
+    color: #1b345c;
+    text-align: right;
+    font-size: 20px;
+    font-family:  Verdana, sans-serif;
+}
+
+
+.b 
+{
+    color: #1b345c;
+    text-align: center;
+    font-size: xx-large;
+    padding: 30px;
+    font-family:  Verdana, sans-serif;
+}
+
+table 
+{
+  width: 50%;
+  border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, td, th 
+{
+  border: 5px solid #1b345c;
+  padding: 8px;
+  text-align: center;
+  color: #1b345c;
+  font-size: small;
+  font-family:  Verdana, sans-serif;
+}
+.c
+{
+    color: white;
+    text-align: center;
+    font-style: normal;
+    font-size: xx-large;
+    font-family:  Verdana, sans-serif;
+    background-color: #A7C7E7;
+    position: absolut;
+}
+.d
+{
+ background-color: #A7C7E7;
+ image-align: center;
+}
+.e
+{
+  text-align: center;
+  font-size: 20px;
+  font-family:  Verdana, sans-serif;
+  color: white;
+}
+.f
+{
+    color: white;
+    text-align: center;
+    font-style: normal;
+    font-size: 22px;
+    font-family:  Verdana, sans-serif;
+    color: white;
+}
+ul
+{
+   list-style-position: inside;
+}
+.g
+{
+    background-color:  #b8d2ff;
+    text-align: center;
+    font-style: normal;
+    font-size: 22px;
+    font-family:  Verdana, sans-serif;
+    color: white;
+}
+.h
+{
+ background-color: #b8d2ff;
+ text-align: center;
+}
+.button {
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.2s;
+  cursor: pointer;
+}
+
+.button1 {
+  background-color: white; 
+  color: #1b345c; 
+  border: 2px solid #1b345c;
+}
+
+.button1:hover {
+  background-color: #b8d2ff;
+  color: white;
+  border: 2px solid white;
+}
+
+img
+{
+   border-radius: 5%;
+   opacity: 0.9;
+}
+
+.mySlides
+{
+  display: none;
+  margin: 0 auto;
+}
+tr:hover {background-color: #b8d2ff;}
+
+
